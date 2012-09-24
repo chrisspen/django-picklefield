@@ -5,3 +5,5 @@
 /temp
 /src/django_picklefield.egg-info
 
+/.project
+/.pydevproject
